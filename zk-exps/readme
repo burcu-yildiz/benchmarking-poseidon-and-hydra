@@ -1,0 +1,26 @@
+This directory contains implementations for Hydra and Poseidon in circom.
+
+Before compiling the circuits, circom needs to be installed.
+
+- Hydra: Implementation is under `hydra`. `hydra.circom` can be updated for different lengths or switching between enryption and hashing. Under `hydra` directory, following command can be used to learn number of constraints for pallas field:
+````
+circom hydra.circom --r1cs -p pallas
+````
+
+- Poseidon: Implementation is under `poseidon`. `poseidon.circom` is taken from [circomlib repository](https://github.com/iden3/circomlib) (commit: cff5ab6) and updated to support encryption and different lengths of input and output for hash. It can be quickly updated for different lengths for hashing or switching between enryption and hashing.
+
+Parameters used by `poseidon.circom` is in `my_poseidon_constants.circom`. To generate this file, follow:
+1. Change directory to `circomlibjs` (which is downloaded from [https://github.com/iden3/circomlibjs](circomlibjs github) (version: 0.1.7))
+2. Update `src/poseidon_constants.json` with correct parameters, where M is array of MDS matrices and C is array of rounds constants for t=2:16: to generate parameters for t run `sage generate_params_poseidon.sage 1 0 256 <t> 5 128 0x40000000000000000000000000000000224698fc094cf91b992d30ed00000001` by replacing `<t>` with value of t  (requires Sage to be installed).
+3. Run 
+````
+cd circomlibjs
+npm install -g circomlibjs
+cd ..
+````
+3. Run `circomlibjs/tools/poseidon_optimize_constants.js` with following command under directory `circomlibjs`:
+````
+node tools/poseidon_optimize_constants.js 
+```` 
+4. Open and run `circomlibjs/src/create_poseidon_constants_for_circom.ipynb`. 
+5. Desired file is generated at `circomlibjs/src/my_poseidon_constants.circom`. Copy it to directory `/poseidon`.

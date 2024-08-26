@@ -1,0 +1,20 @@
+This directory contains implementations for Hydra and Poseidon in MP-SPDZ.
+
+Directory `MP-SPDZ` (version 0.3.9) is downloaded from [https://github.com/data61/MP-SPDZ](MP-SPDZ github) and extended for Hydra and Poseidon implementations. For benchmarking purposes -DINSECURE flag is added to CONFIG. Before running benchmarks, run following:
+````
+cd MP-SPDZ
+make setup
+make mascot
+````
+
+- Hydra: Based code is taken from [https://extgit.iaik.tugraz.at/krypto/hydra/-/blob/master/MP-SPDZ/Programs/my_Programs/hydra.mpc](hydra.mpc (commit: ff1957ef)) and slightly updated to `hydra-encrypt.mpc` and `hydra-hash.mpc` under `/MP-SPDZ/Programs/my_Programs`.
+
+- Poseidon: Implementations are available as `poseidon-2-0-encrypt.mpc` and `poseidon-2-0-hash.mpc` under `/MP-SPDZ/Programs/my_Programs`. Parameters are generated with [https://extgit.iaik.tugraz.at/krypto/hadeshash/-/blob/master/code/generate_params_poseidon.sage?ref_type=heads](generate_params_poseidon.sage (commit: 053a1390)) and copy-pasted, where a copy of the file can be found under `../zk-exps/poseidon/`.
+
+
+-Benchmarking: We run benchmarkings with `/MP-SPDZ/run_bench.py` and `/MP-SPDZ/run_bench-up-to-feasible.py` files which are taken from [https://extgit.iaik.tugraz.at/krypto/hydra/-/blob/master/MP-SPDZ/run_bench.py?ref_type=heads](run_bench.py of Hydra PoC implementation commit: ff1957ef) and updated. Under `/MP-SPDZ` directory, exact commands we run:
+````
+run_bench.py > run.txt 
+run_bench-up-to-feasible.py > up-to-feasible.txt 
+````
+where the above command generates `result_file.csv` and below one generates `results-up-to-feasible.csv`. For analysis and visualization of generated data, we used `create_visuals.ipynb` under `/MP-SPDZ` directory.
