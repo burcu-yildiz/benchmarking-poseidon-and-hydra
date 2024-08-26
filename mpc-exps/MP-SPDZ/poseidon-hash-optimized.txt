@@ -1,0 +1,153 @@
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8397
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8589
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8397
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8589
+There are 2 chunks and 2 outchunks for out_size 4 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+There are 4 chunks and 2 outchunks for out_size 4 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8203
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8206
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+There are 1 chunks and 1 outchunks for out_size 4 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+There are 2 chunks and 1 outchunks for out_size 4 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8203
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8405
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8597
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8789
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8981
+There are 2 chunks and 4 outchunks for out_size 8 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8202
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8205
+There are 4 chunks and 4 outchunks for out_size 8 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8203
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8206
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8212
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8215
+There are 1 chunks and 2 outchunks for out_size 8 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+There are 2 chunks and 2 outchunks for out_size 8 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8211
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8421
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8613
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8805
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8997
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9189
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9381
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9573
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9765
+There are 2 chunks and 8 outchunks for out_size 16 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8202
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8208
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8211
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8214
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8217
+There are 4 chunks and 8 outchunks for out_size 16 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8203
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8206
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8212
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8215
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8218
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8221
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8224
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8227
+There are 1 chunks and 4 outchunks for out_size 16 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8201
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8206
+There are 2 chunks and 4 outchunks for out_size 16 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8210
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8215
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8227
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8453
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8645
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8837
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9029
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9221
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9413
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9605
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9797
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 9989
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 10181
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 10373
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 10565
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 10757
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 10949
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 11141
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 11333
+There are 2 chunks and 16 outchunks for out_size 32 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8199
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8202
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8205
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8208
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8211
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8214
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8217
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8220
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8223
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8226
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8229
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8232
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8235
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8238
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8241
+There are 4 chunks and 16 outchunks for out_size 32 outLastchunk 2 and rate 2
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8200
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8203
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8206
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8209
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8212
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8215
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8218
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8221
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8224
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8227
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8230
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8233
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8236
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8239
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8242
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8245
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8248
+A call to hash on words <class 'Compiler.types.sint'> array of length 3 at 8251
+There are 1 chunks and 8 outchunks for out_size 32 outLastchunk 4 and rate 4
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8196
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8201
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8206
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8211
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8216
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8221
+A call to hash on words <class 'Compiler.types.sint'> array of length 5 at 8226

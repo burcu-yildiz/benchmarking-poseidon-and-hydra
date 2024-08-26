@@ -1,0 +1,3 @@
+This repository contains files for benchmarking Hydra and Poseidon hash functions under MPC and ZK. Detailed explanations for MPC and ZK can be found in readme files under relevant directories.
+
+Disclaimer: Codes in this repository didn't receive any auditing. This repository is only for benchmarking purposes. It is not production-ready.
